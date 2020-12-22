@@ -1,0 +1,4 @@
+node_modules/
+target/
+*.sqlite3
+config.json

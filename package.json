@@ -1,0 +1,21 @@
+{
+  "name": "free-agent-finder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node ./node_modules/typescript/bin/tsc"
+  },
+  "keywords": [
+    "nba",
+    "fantasy"
+  ],
+  "author": "Zach Delano",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^5.5.0",
+    "sqlite3": "^5.0.0",
+    "typescript": "^4.1.3"
+  }
+}
